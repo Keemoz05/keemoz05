@@ -13,11 +13,11 @@ A passionate software developer focused on **learning by building side projects 
 
 A project focused on **interactive trivia platform custom-built for social events**
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=YOUR_REPO_NAME&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C3D1D9&icon_color=58A6FF)](https://github.com/Keemoz05/QuizYa)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Keemoz05&repo=CustomKahoot&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C3D1D9&icon_color=58A6FF)](https://github.com/Keemoz05/QuizYa)
 
 ### What I'm Maintaining Right Now
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=YOUR_REPO_NAME&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C3D1D9&icon_color=58A6FF)](https://github.com/Keemoz05/APIPlay)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Keemoz05&repo=APIPlay&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C3D1D9&icon_color=58A6FF)](https://github.com/Keemoz05/APIPlay)
 
 ## 🛠️ Tools & Tech Stack
 
