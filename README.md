@@ -1,4 +1,4 @@
-# Hi there, I'm Syed Haqeem 
+# Hi there, I'm Syed Haqeem 👋
 
 A passionate software developer focused on learning by building side projects with different technologies and frameworks.  My goal is to build accessible and user-centric software that solve practical problems. I frequently draw inspiration from tech communities(Reddit, DevCommunity) to identify real-world problems, developing open-source alternatives to proprietary platforms. Strong interest in system design, actively researching how top tech companies utilize modern stacks to engineer scalable solutions for real-world challenges.
 
