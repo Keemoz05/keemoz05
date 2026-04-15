@@ -11,9 +11,9 @@ A passionate software developer focused on **learning by building side projects 
 
 ### 🔭 What I'm Building Right Now
 
-A project focused on **interactive trivia platform custom-built for social events**
+A project focused on **interactive trivia platform custom-built for social events**.
 
-[![Readme Card](https://github-readme-stats.shion.dev/api/pin/?username=Keemoz05&repo=CustomKahoot&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C3D1D9&icon_color=58A6FF)](https://github.com/Keemoz05/CustomKahoot)
+[![Readme Card](https://github-readme-stats.shion.dev/api/pin/?username=Keemoz05&repo=CustomKahoot&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C3D1D9&icon_color=58A6FF&v=1)](https://github.com/Keemoz05/CustomKahoot)
 
 ### What I'm Maintaining Right Now
 
